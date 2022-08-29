@@ -11,7 +11,7 @@ public class WealthCalculator {
         // Package Class.
 
         public static void main(String[] args) {
-            // Main Method.
+            //  method.
 
             Scanner keyboard = new Scanner(System.in);
             // Set Scanner To Var "keyboard".
